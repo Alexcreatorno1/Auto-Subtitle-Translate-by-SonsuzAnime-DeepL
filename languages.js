@@ -2,6 +2,8 @@ let data = {
   tr: "Türkçe",
   ar: "العربية",
   bg: "Български",
+  bs: "Bosnian",
+  sr: "Serbia",
   zh: "中文",
   "zh-Hant": "繁體中文",
   "zh-Hans": "简体中文",
